@@ -19,6 +19,8 @@ console.log(se);
 1 days = (24 * 3600) sec
 x days = (no of seconds / 3600)/24
 
+30 DAYS = NO OF SECONDS /3600/24*30
+
 x hour = (no of second / 3600)%24  subtracting the no of days which has been included as we have taken the days section out
 
 x minute = (no of second/60)%60;
